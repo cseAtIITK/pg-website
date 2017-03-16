@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="IIT Kanpur welcomes all future students">
+<meta name="keywords" content="iit, iitk, kanpur, future, jee, 2014, counseling, service, orientation">
+<meta name="author" content="Sohil Bansal">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scholarships &middot; IIT Kanpur</title>
+
+<!-- =========================
+ FAV AND TOUCH ICONS  
+============================== -->
+<link rel="shortcut icon" href="../static/images/icons/favicon.ico">
+<link rel="apple-touch-icon" href="../static/images/icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../static/images/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../static/images/icons/apple-touch-icon-114x114.png">
+
+<!-- =========================
+     STYLESHEETS      
+============================== -->
+<link rel="stylesheet" href="../static/css/bootstrap.min.css">
+
+<!-- Documentation extras -->
+<link href="../static/css/docs.min.css" rel="stylesheet">
+
+<!-- CUSTOM STYLES -->
+<link rel="stylesheet" href="../static/css/styles-sub.css">
+<link rel="stylesheet" href="../static/css/responsive.css">
+
+<!-- WEBFONT -->
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 9]>
+			<script src="js/html5shiv.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+
+<!-- JQUERY -->
+<script src="../static/js/jquery.min.js"></script>
+</head>
+
+
+<body>
+<!-- =========================
+   HOME SECTION       
+============================== -->
+<header id="home" class="header">
+	
+	<!-- TOP BAR -->
+	<div id="main-nav" class="navbar navbar-inverse bs-docs-nav" role="banner">
+		<div class="container">
+			<div class="navbar-header responsive-logo">
+				<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				</button>
+        <a href="http://iitk.ac.in/counsel/" class="navbar-brand">
+				<img src="../static/images/logo.png" alt="Zerif">
+				</a>
+			</div>
+			<nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation" style="height: 1px;">
+			<ul class="nav navbar-nav navbar-right responsive-nav">
+				<li><a href="..">Home</a></li>
+				<li><a href="../acads.html.html" >Academics</a></li>
+				<li><a href="../life">Life on Campus</a></li>
+        <li><a href="../scholarships" style="border-bottom: solid 2px red;">Scholarships</a></li>
+				<li><a href="http://iitk.ac.in/counsel/index.php?page=newug" target="blank">Orientation</a></li>
+         			<li><a href="http://thatsiitk.quora.com" target="_blank">Quora Blog</a></li>
+
+				<li><a href="http://iitk.ac.in/futurestudents/contacts">Contacts</a></li>
+			</ul>
+			</nav>
+		</div>
+	</div>
+</header>
+	<!-- / END TOP BAR -->
+	
+	
+
+<!-- Docs page layout -->
+    <div class="bs-docs-header" id="content">
+      <div class="container">
+        <h1>Scholarships</h1>
+        <p></p>
+      </div>
+    </div>
+	
+	<div class="container bs-docs-container">
+      <div class="row">
+        <div class="col-md-9" role="main">
+          <div class="bs-docs-section">
+            <h3 id="mcm">Merit cum Means Scholarship</h3>
+            <p>Students receive full tuition waiver, and pocket allowance of Rs. 1000 pm for the duration of the program. This is merit cum means based scholarship; hence, the recipients must maintain a minimum CPI of 6.5. However, if CPI falls below 6.5 (but remains above 6.0) then pocket allowance is withdrawn. A student must only submit their parental income certificate to apply for this scholarship. This scholarship can be availed by those who are other than category (SC/ST) students with annual parental income less than 4.5 lakhs.</p>
+            <h3 id="pocket">Basic Mess & Pocket Allowance</h3>
+            <p>This scholarship can be availed by those who are category (SC/ST) students with annual parental income less than 4.5 lakhs. Under this scholarship students receive free basic mess bill and a pocket allowance of Rs. 250 pm.</p>
+            <h3 id="inspire">INSPIRE Scholarship</h3>
+            <p>Students receive an annual scholarship of Rs.30,000 per semester (Rs. 60,000 annually), along with a research grant of Rs.20,000. Students of B.S programmes within the ALL INDIA RANK (AIR) 10,000 as per Common Merit LIST (CML) in Chemistry, Physics and Mathematics departments are eligible for this scholarship. Students must submit an undertaking for not getting any other scholarship to the SSPC every semester to apply for this scholarship. This is a merit based scholarship; hence, the recipients must maintain a minimum CPI of 6.0.</p>
+			<h3 id="sbf">Students' Benevolence Fund</h3>
+            <p>Students can apply for scholarships and loans under the Students’ Benevolence Fund. It is granted purely on the basis of means for students who demonstrate financial need, but could not secure financial support from the Institute or any other source. Students can apply for this by filling an online form around mid-September.</p>
+			<h3 id="sports">Sports Scholarship</h3>
+            <p>Up to 20 scholarships are awarded per year, worth Rs.500 per month, for showing leadership in sports related activities on campus, leading to development, growth and increased participation in various sports activities. Excellence in sports, as shown in performance in Inter-IIT and other external sports meets are also awarded by means of these scholarships.</p>
+			<h3 id="aditya-birla">Aditya Birla Scholarship</h3>
+            <p>The top 20 students (in terms of their AIR in JEE Advanced) can apply for this scholarship. Some of these students are shortlisted for an interview on the basis of their application. This scholarship is then awarded on the basis of the interview.</p>
+			<h3 id="opjems">OPJEMS</h3>
+            <p>The Institute nominates the following category of students for this scholarship</p>
+				<ol>
+					<li>Top 2 students each from</li>
+						<ul>
+							<li>Civil Engineering</li>
+							<li>Electrical Engineering</li>
+							<li>Materials Science and Engieering</li>
+							<li>Mechanical Engineering</li>
+						</ul>
+					<li>Top 12 students across all departments from a batch</li>
+				</ol>
+			<p><br>The formalities regarding this scholarship are carried out by the Institute authorities and no participation from a student is required.
+			There are many external scholarships provided by State governments, offices etc., information for which is provided from time to time by the concerned departments. A student must complete the formalities for such external scholarships on his own and contact the SSPC for the formalities required on the part of the Institute.
+			There are also other scholarships such as many Donors’ scholarships, also awarded by the SSPC. A student applying for Merit-cum-means scholarship by submitting his/her Parental Income Certificate, will automatically be eligible for these scholarships.</p>
+		</div>
+        </div>
+        <div class="col-md-3">
+          <div class="bs-docs-sidebar hidden-print" role="complementary">
+            <ul class="nav bs-docs-sidenav">
+              <li><a href="#mcm">Merit cum Means</a></li>
+              <li><a href="#pocket">Pocket Allowance</a></li>
+              <li><a href="#inspire">INSPIRE</a></li>
+              <li><a href="#sbf">SBF</a></li>
+              <li><a href="#sports">Sports Scholarship</a></li>
+              <li><a href="#aditya-birla">Aditya Birla</a></li>
+			  <li><a href="#opjems">OPJEMS</a></li>
+            </ul>
+            <a class="back-to-top" href="#top">Back to top</a>
+          </div>
+        </div>       
+      </div>
+    </div>
+
+<!-- ============================
+End Navigation Bar -->
+
+
+<!-- Footer
+  ================================================== -->
+  <footer class="bs-docs-footer" role="contentinfo">
+    <div class="container">
+      <div class="bs-docs-social">
+        <ul class="bs-docs-social-buttons">
+          <li><a target="_blank" href="https://www.facebook.com/buzz.iitk">Facebook</a></li>
+          <li><a target="_blank" href="https://twitter.com/hashtag/iitk">Twitter</a></li>
+          <li><a target="_blank" href="https://plus.google.com/u/0/108237246413867499373/posts">Google+</a></li>
+          <li><a target="_blank" href="http://www.youtube.com/fmciitkanpur">YouTube</a></li>
+          <li><a target="_blank" href="http://www.flickr.com/fmciitk">Flickr</a></li>
+        </ul>
+      </div>
+      <p>A dream doesn't become reality through magic;</p><p>It takes sweat, determination and hard work.</p>
+      <ul class="bs-docs-footer-links muted">
+        <li>IIT Kanpur</li>
+        <li>&middot;</li>
+        <li><a href="http://www.iitk.ac.in" target="_blank">Home</a></li>
+        <li>&middot;</li>
+        <li><a href="http://www.iitk.ac.in/futurestudents">Future Students</a></li>
+        <li>&middot;</li>
+        <li><a href="http://www.iitk.ac.in/counsel" target="_blank">Counselling Service</a></li>
+        <li>&middot;</li>
+        <li><a href="../contacts">Contact Us!</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="../static/js/bootstrap.min.js"></script>
+  <script src="../static/js/docs.min.js"></script>
+</body>
+</html>
