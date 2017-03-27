@@ -1118,7 +1118,7 @@ width: -webkit-calc(100% / 2);
 -----------------------------------------*/
 
 .products {
-	background: url(../images/product-bg.png) 50% 0 repeat;
+	background: url(http://iitk.ac.in/futurestudents/static/images/product-bg.png) 50% 0 repeat;
 }
 .products .color-overlay {
 	background: rgba(39,144,176, 0.96);
@@ -1129,7 +1129,7 @@ width: -webkit-calc(100% / 2);
 
 /*--ITEMS IMAGES--*/
 .item-1 {
-	background-image: url(../images/team2/1.jpg);
+	background-image: url(http://iitk.ac.in/futurestudents/static/images/team2/1.jpg);
 }
 .item-2 {
 	background-image: url(http://d13yacurqjgara.cloudfront.net/users/33345/screenshots/1374342/telfez_1x.png);
