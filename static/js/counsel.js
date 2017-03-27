@@ -6,7 +6,8 @@ $.vegas('slideshow', {
   backgrounds:[
     { src: baseURL + 'static/images/backgrounds/bg1.jpg', fade:1000 },
     { src: baseURL + 'static/images/backgrounds/bg2.jpg', fade:1000 },
-    { src: baseURL + 'static/images/backgrounds/bg3.jpg', fade:1000 }
+    { src: baseURL + 'static/images/backgrounds/bg3.jpg', fade:1000 },
+    { src: baseURL + 'static/images/backgrounds/bg4.jpg', fade:1000 }
   ]
 });
       
