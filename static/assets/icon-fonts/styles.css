@@ -2,10 +2,10 @@
 
 @font-face {
   font-family: "712-icon-fonts";
-  src:url("http://iitk.ac.in/futurestudents/static/assets/icon-fonts/fonts/712-icon-fonts.eot");
-  src:url("http://iitk.ac.in/futurestudents/static/assets/icon-fonts/fonts/712-icon-fonts.eot?") format("embedded-opentype"),
+  src:url("fonts/712-icon-fonts.eot");
+  src:url("fonts/712-icon-fonts.eot?") format("embedded-opentype"),
     url("fonts/712-icon-fonts.woff") format("woff"),
-    url("http://iitk.ac.in/futurestudents/static/assets/icon-fonts/fonts/712-icon-fonts.ttf") format("truetype"),
+    url("fonts/712-icon-fonts.ttf") format("truetype"),
     url("fonts/712-icon-fonts.svg") format("svg");
   font-weight: normal;
   font-style: normal;
